@@ -22,3 +22,7 @@ conda activate freecad-mcp
 ```bash
 python -c "import mcp; import pydantic; print('Environment OK')"
 ```
+
+## FreeCAD MCP helper
+
+For CAD automation (including STL export), see [tools/freecad_mcp_server/README.md](tools/freecad_mcp_server/README.md).
